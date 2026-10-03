@@ -3,4 +3,4 @@ This is a start.
 <br>
 Author - Abhijit Dutta 
 <br>
-and this my first code
+and this is my first code
